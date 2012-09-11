@@ -1,0 +1,4 @@
+com.vidaj.MethodProcessor
+com.vidaj.PathParamProcessor
+com.vidaj.ParamTypeProcessor
+com.vidaj.IntAnnotationProcessor
